@@ -1,0 +1,11 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+
+Git control hidden folders and files are created.
+You need to do this for use git as a version control.
+
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The working directory contains all files, while the stage area contains only a subset.
+The value is that you can tracking in a single commit only the files that matter to a logical change, instead of all files in directory.
+
