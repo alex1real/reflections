@@ -1,0 +1,22 @@
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helps when you have a previous working file and you want to know why it stops working.
+
+It's a good idea to commit or changes whenever you do a logical change. Paying attention to not be too small or too big.
+
+2) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because some file alterations are file related, and  a version control system doing this automatically save time.
+
+3) How can you use the commands git log and git diff to view the history of files?
+git log displays when the changes was made and its titles
+git diff compares the differences between two different version of same file.
+
+
+4) How might using version control make you more confident to make changes that could break something?
+When you use version control system, you can undo bad code.
+
+5) Now that you have your workspace set up, what do you want to try using Git for?
+Do the android course.
+Start to version control my developed code.
+
+ 
