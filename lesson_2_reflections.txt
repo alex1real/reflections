@@ -9,3 +9,28 @@ You need to do this for use git as a version control.
 The working directory contains all files, while the stage area contains only a subset.
 The value is that you can tracking in a single commit only the files that matter to a logical change, instead of all files in directory.
 
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+I can put all files which belong to the same logical change in the staging area.
+
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It's usefull when you are creating a new future that you don't know if will be really added to project or two different features which need to be developed at same time.
+
+
+5) How do the diagrams help you visualize the branch structure?
+
+Diagrams are usefull to display the differences between branches.
+
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is one branch with the changes of both branches.
+The diagrams was used to show that all commits of two branches will be combined in one.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automaticlly saves times.
+Manually can be more accurate.
